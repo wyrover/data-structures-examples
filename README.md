@@ -1,8 +1,8 @@
 # data-structures-examples
 
 
-- Êý×é
-- Á´±í
+- æ•°ç»„
+- é“¾è¡¨
 - std::vector
 - std::list
 - std::deque
